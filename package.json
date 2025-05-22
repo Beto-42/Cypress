@@ -1,0 +1,21 @@
+{
+  "name": "teste_cypresss",
+  "version": "1.0.0",
+  "description": "branche",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "Teste E2E"
+  },
+  "license": "ISC",
+  "author": "Roberto",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cypress": "^14.4.0",
+    "teste_cypresss": "file:"
+  }
+}
